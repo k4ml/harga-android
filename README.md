@@ -1,4 +1,9 @@
 Android app for the [Cari Harga Barang][1] website
+
+Run the following after checkout (Cordova > 3):
+
+    cordova platform add android
+
 Issues
 ======
 * Phonegap can't open existing sqlite database. Workaround:-
